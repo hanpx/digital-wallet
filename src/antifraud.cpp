@@ -2,6 +2,7 @@
 #include <fstream>
 #include <sstream>
 #include <queue>
+#include <string>
 #include <unordered_set>
 #include <unordered_map>
 using namespace std;
